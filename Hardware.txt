@@ -1,0 +1,12 @@
+==>ARDUINO UNO:
+Arduino Uno is a microcontroller board developed by Arduino.cc which is an open-source electronics platform mainly based on AVR microcontroller Atmega328.
+First Arduino project was started in Interaction Design Institute Ivrea in 2003 by David Cuartielles and Massimo Banzi with the intention of providing a cheap and flexible way to students and professional for controlling a number of devices in the real world.
+The current version of Arduino Uno comes with USB interface, 6 analog input pins, 14 I/O digital ports that are used to connect with external electronic circuits. Out of 14 I/O ports, 6 pins can be used for PWM output.
+It allows the designers to control and sense the external electronic devices in the real world.
+
+==>BLUETOOTH MODULE HC-06:
+HM-06 is a Bluetooth module designed for establishing short range wireless data communication between two microcontrollers or systems. 
+The module works on Bluetooth 2.0 communication protocol and it can only act as a slave device. 
+This is cheapest method for wireless data transmission and more flexible compared to other methods and it even can transmit files at speed up to 2.1Mb/s.
+HC-06 uses frequency hopping spread spectrum technique (FHSS) to avoid interference with other devices and to have full duplex transmission. 
+The device works on the frequency range from 2.402 GHz to 2.480GHz.
